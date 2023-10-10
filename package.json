@@ -11,7 +11,9 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
+    "@elysiajs/cookie": "^0.7.0",
     "@elysiajs/html": "^0.7.3",
+    "@elysiajs/jwt": "^0.7.0",
     "@libsql/client": "^0.3.5",
     "better-sqlite3": "^8.7.0",
     "drizzle-orm": "^0.28.6",
